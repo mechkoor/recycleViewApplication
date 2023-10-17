@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/yellow_color</item>
+
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.RecycleView" parent="Base.Theme.RecycleView" />
+</resources>
